@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GottaBeTheJuice
 - 👀 I’m interested in ...Web Development, Front-End, Back-End, Machine Learning and Neural Network Models.
-- 🌱 I’m currently learning ... Python, CSS, HTML, SQL, Flask
+- 🌱 I’m currently learning ... Python, CSS, HTML, :elephant:PostgreSQL, Flask
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
