@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GottaBeTheJuice
 - 👀 I’m interested in ...Web Development, Front-End, Back-End, Machine Learning and Neural Network Models.
-- 🖥️ I’m currently learning and improving my ... :coffee:Javascript, React , 🐍Python, 🕸️Node.js, 🚄Express, 🖥️CSS, 💻HTML, 🐘PostgreSQL, 🍶Flask, :classical_building: C++,
+- 🖥️ I’m currently learning and improving my ... :coffee:Javascript, React , 🐍Python, 🕸️Node.js, 🚄Express, 🖥️CSS, 💻HTML, 🐘PostgreSQL, 🍶Flask, :classical_building: C,
 - 💞️ I’m looking to collaborate on interesting projects that challenge me to learn and grow...
 - 📫 How to reach me ...
 
